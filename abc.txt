@@ -1,9 +1,4 @@
-Welcome to TR-103
 
-you fool
-
-class ho rahi hai
-Capgemini class
 
 
 class A{
