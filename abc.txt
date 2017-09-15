@@ -1,3 +1,7 @@
 Welcome to TR-103
 
 you fool
+
+class A{
+
+}
